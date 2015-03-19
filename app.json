@@ -1,0 +1,5 @@
+{
+  "name": "IoT input simulator",
+  "description": "A simple sensor simulator for MQTT",
+  "keywords": ["IoT", "ruby", "MQTT"]
+}

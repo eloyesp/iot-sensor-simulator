@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 # Internet of Things (IoT)  input sensor simulator
 
 Simulate a sensor that measure how full is your beer glass and refill it when empty.
