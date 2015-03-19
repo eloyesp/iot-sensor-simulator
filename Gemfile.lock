@@ -1,0 +1,39 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.0)
+    cuba (3.3.0)
+      rack
+    daemons (1.2.2)
+    eventmachine (1.0.7)
+    method_source (0.8.2)
+    mqtt (0.3.1)
+    pry (0.10.1)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    rack (1.6.0)
+    shotgun (0.9)
+      rack (>= 1.0)
+    slim (2.0.3)
+      temple (~> 0.6.6)
+      tilt (>= 1.3.3, < 2.1)
+    slop (3.6.0)
+    temple (0.6.8)
+    thin (1.6.3)
+      daemons (~> 1.0, >= 1.0.9)
+      eventmachine (~> 1.0)
+      rack (~> 1.0)
+    tilt (2.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cuba
+  mqtt
+  pry
+  shotgun
+  slim
+  thin
+  tilt
